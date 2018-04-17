@@ -2,8 +2,7 @@ import requests
 import datetime
 
 #Установка адреса бота
-url = https://api.telegram.org/bot507226896:AAGT_fsEO1milOkqbNp-VolQDJ0tGjaPvD7/
-
+url = https://api.telegram.org/bot529348970:AAGnujrjQ_qnsOA_z40hGDVMI-3AYzoBgIE/
 #Поиск последнего сообщения из массива чата с пользователем Telegram.
 
 def lastUpdate(dataEnd):
