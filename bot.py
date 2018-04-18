@@ -1,8 +1,11 @@
 import requests
 import datetime
+
 #Установка адреса бота
-url = https://api.telegram.org/bo529348970:AAGnujrjQ_qnsOA_z40hGDVMI-3AYzoBgIE/
+url = https://api.telegram.org/bot507226896:AAGT_fsEO1milOkqbNp-VolQDJ0tGjaPvD7/
+
 #Поиск последнего сообщения из массива чата с пользователем Telegram.
+
 def lastUpdate(dataEnd):
 res = dataEnd['result']
 totalUpdates = len(res) - 1
